@@ -7,7 +7,7 @@ body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-#background, #description {
+#background, #description, #team {
   padding-top: 100px;
 }
 .text-muted {
@@ -51,6 +51,9 @@ h6 {
 }
 .img-centered {
   margin: 0 auto;
+  height: 100px;
+  filter: grayscale(80%);
+  opacity: 0.8;
 }
 .bg-light-gray {
   background-color: #eeeeee;
