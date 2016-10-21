@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "arctic.cse.msu.edu",
+  "port": "22",
+  "target": "/user/cse435/web/Projects/F2016/Groups/SCALECC2/web",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "ferna194",
+  "password": "Jqkzbykr098!",
+  "watch": [],
+  "transport": "scp"
+}
